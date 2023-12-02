@@ -12,9 +12,13 @@ downloadScriptFromIdeoneAndPopulateDatabase();
 
 
 // intern by mistake makes the same function
-
-function downloadScriptFromIdeoneAndPopulateDatabase() {
-    console.log("New function created");
+if(true) {
+    function downloadScriptFromIdeoneAndPopulateDatabase() {
+        console.log("New function created");
+    }
+    console.log("Calling intern code")
+    downloadScriptFromIdeoneAndPopulateDatabase();
 }
-console.log("Calling intern code")
+
+
 downloadScriptFromIdeoneAndPopulateDatabase();
