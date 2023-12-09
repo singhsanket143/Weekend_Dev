@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/sanketsingh/Developer/PW/JS-Basics",
-      "program": "/Users/sanketsingh/Developer/PW/JS-Basics/build/Debug/outDebug"
+      "cwd": "/Users/sanketsingh/Developer/PW/JS-Basics/Week_2/DEC_3",
+      "program": "/Users/sanketsingh/Developer/PW/JS-Basics/Week_2/DEC_3/build/Debug/outDebug"
     }
   ]
 }
