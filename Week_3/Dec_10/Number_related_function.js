@@ -47,3 +47,17 @@ console.log(num.toPrecision(5)); // number of significant digits to print
 
 console.log(num.toFixed(4)); // number of decimal places after decimal that u want to get
 
+
+
+
+// Zero
+const zero = 0;
+const pos_zero = +0;
+const neg_zero = -0;
+
+console.log(zero, pos_zero, neg_zero);
+console.log(neg_zero == zero);
+console.log(neg_zero === zero); // 0 == +0 == -0
+
+
+
