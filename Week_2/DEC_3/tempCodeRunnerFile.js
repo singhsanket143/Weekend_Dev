@@ -1,0 +1,1 @@
+ var student = "Karthik";
