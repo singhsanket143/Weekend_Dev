@@ -25,3 +25,5 @@ console.log(arr);
 
 arr.push(10, 20);
 console.log(arr);
+
+console.log(arr[-1]);
